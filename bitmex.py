@@ -156,4 +156,4 @@ def cancelAll():
 
 
 __author__ = 'Nuno Silva aka NFSS10'
-#http://www.nfss10.com/
+#http://nfss10.com/
